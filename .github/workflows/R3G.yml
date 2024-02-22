@@ -17,7 +17,7 @@ env:
   CONFIG_FILE: configs/R3G.config
   SYS_CONF_SH: configure.sh
   PACKS: package.sh
-  UPLOAD_BIN_DIR: false
+  UPLOAD_BIN_DIR: true
   UPLOAD_FIRMWARE: true
   UPLOAD_COWTRANSFER: false
   UPLOAD_WETRANSFER: false
